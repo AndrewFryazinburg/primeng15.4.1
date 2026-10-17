@@ -194,8 +194,5 @@
                 }
             }
         }
-    },
-    "cli": {
-      "analytics": false
     }
 }
